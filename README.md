@@ -1,2 +1,3 @@
 # hello-world
-# Relearning git workflow from my EECS days. 
+# Relearning git workflow from my EECS days.
+Reviewing git workflow
